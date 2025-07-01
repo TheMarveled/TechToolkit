@@ -61,12 +61,3 @@ This tool modifies system settings and registry keys. Use at your own risk. It i
 
 ---
 
-## License
-
-[Your chosen license here]
-
----
-
-## Contact
-
-For support or feedback, open an issue in the GitHub repository.
